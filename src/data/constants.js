@@ -207,8 +207,8 @@ export const projects = [
     image: youtube,
     tags: ["Html", "Css", "JavaScript", "API"],
     category: "frontend",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/SaikiranThalloju/youtube-clone",
+    webapp: "https://youtube-clone-72yp01nym-students-projects-09bcf5bf.vercel.app/",
   },
 
   
@@ -277,8 +277,8 @@ export const projects = [
     image : Snakegame,
     tags: ["Java", "JavaSwing",'AWT', 'JFrame',],
     category: "java",
-    github: "https://github.com/SaikiranThalloju/crypto-tracker-project",
-    webapp: "https://crypto-tracker-project-tawny.vercel.app/",
+    github: "https://github.com/SaikiranThalloju/SnakeGame",
+    webapp: "https://github.com/SaikiranThalloju/SnakeGame",
   },
   
 ];
